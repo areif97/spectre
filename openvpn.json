@@ -1,0 +1,11 @@
+{
+	"Transport": "direct",
+	"ProxyMethod":"openvpn",
+	"EncryptionMethod":"chacha20-poly1305",
+	"UID":"7ZG+9xkK/VJ0NzITfBnnUA==",
+	"PublicKey":"MyIyyBihLtKqVSzCnpx0Rf2Mjrs/X2kmAJIrLd/k5j0=",
+	"ServerName":"mobile.youtube.com",
+	"NumConn":1,
+	"BrowserSig":"chrome",
+	"StreamTimeout": 300
+	}
